@@ -54,5 +54,5 @@ Example serial output:
 |---|---|
 | Temperature &Humidity chart | ![Temp](screenshot/thingspeak_visuals.png) |
 | Public URL (incognito) | ![Public](screenshot/thingspeak_private.png) |
-| Serial monitor | ![Serial](screenshot/wiring_diagram.png) |
+| Serial monitor | ![Serial](screenshot/Wiring_diagram.png) |
  
