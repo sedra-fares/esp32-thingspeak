@@ -52,7 +52,7 @@ Example serial output:
 ##screenshots:
 | | |
 |---|---|
-| Temperature &Humidity chart | ![Temp](screenshots/thingspeak_visuals.png) |
-| Public URL (incognito) | ![Public](screenshots/thingspeak_private.png) |
-| Serial monitor | ![Serial](screenshots/wiring diagram.png) |
+| Temperature &Humidity chart | ![Temp](screenshot/thingspeak_visuals.png) |
+| Public URL (incognito) | ![Public](screenshot/thingspeak_private.png) |
+| Serial monitor | ![Serial](screenshot/wiring diagram.png) |
  
