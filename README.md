@@ -13,8 +13,8 @@ every serial log line includes my University ID.
 
 ## Links
 
-- **ThingSpeak public channel:** https://thingspeak.com/channels/YOUR_CHANNEL_ID
-- **Wokwi project:** YOUR_WOKWI_SHARE_LINK
+- **ThingSpeak public channel:** https://thingspeak.mathworks.com/channels/3551501
+- **Wokwi project:** https://wokwi.com/projects/478948894410472449
 
 Channel name: `Sidra_Faris_12325061`
 
@@ -35,7 +35,6 @@ The channel's sharing is set to **public**.
 | SDA (DATA)  | GPIO 15   |
 | GND (-)     | GND       |
 
-![Wokwi circuit](screenshots/wokwi-circuit.png)
 
 ## How It Works
 
