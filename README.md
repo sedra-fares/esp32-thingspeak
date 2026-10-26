@@ -49,3 +49,10 @@ Example serial output:
 ```
 [ID: 12325061] Temp: 24.0 C | Hum: 40.0 % | HTTP: 200 | Entry: 1
 ```
+##screenshots:
+| | |
+|---|---|
+| Temperature &Humidity chart | ![Temp](screenshots/thingspeak_visuals.png) |
+| Public URL (incognito) | ![Public](screenshots/thingspeak_private.png) |
+| Serial monitor | ![Serial](screenshots/wiring diagram.png) |
+ 
