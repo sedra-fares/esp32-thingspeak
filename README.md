@@ -50,22 +50,3 @@ Example serial output:
 ```
 [ID: 12325061] Temp: 24.0 C | Hum: 40.0 % | HTTP: 200 | Entry: 1
 ```
-
-## Running It
-
-1. Open the Wokwi project link above (or create an ESP32 + DHT22 project and paste `src/main.ino`).
-2. Add the **DHT sensor library** (Adafruit) in Library Manager.
-3. Replace `YOUR_WRITE_API_KEY` with your own ThingSpeak Write API Key.
-4. Press play and watch the serial monitor.
-
-> The real API key is intentionally not included in this repository.
-
-## Screenshots
-
-| | |
-|---|---|
-| ThingSpeak channel page | ![Channel](screenshots/thingspeak-channel.png) |
-| Temperature chart | ![Temp](screenshots/temperature-graph.png) |
-| Humidity chart | ![Humidity](screenshots/humidity-graph.png) |
-| Public URL (incognito) | ![Public](screenshots/public-url.png) |
-| Serial monitor | ![Serial](screenshots/serial-monitor.png) |
